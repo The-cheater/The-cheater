@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/@this_mcis_otaku" target="blank"><img src="https://img.shields.io/twitter/follow/@this_mcis_otaku?logo=twitter&style=for-the-badge" alt="@this_mcis_otaku" /></a> </p>
 
-- 🔭 I’m currently working as **Student at Biju Patnaik University Of Technology**
+- 🔭 I’m currently working as a **Student at Biju Patnaik University Of Technology**
 
 - 🌱 I’m currently learning **Front End Development**
 
